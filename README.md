@@ -1,10 +1,10 @@
 # UX-UI Data Resource
 
 
-## Basic
+## 1. Basic
 
-## Advanced & Mathematics
+## 2. Advanced Skills 
 
-## Languages
+## 3. Languages
 
-## References
+## 4. References
