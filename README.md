@@ -1,5 +1,4 @@
-# UX-UI Data Resource
-
+# This is personal UX-UI Data Resource repository. I store information that are useful for my design process. 
 
 ## 1. Basic
 
